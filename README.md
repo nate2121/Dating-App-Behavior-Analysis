@@ -44,7 +44,7 @@ Stress/anxiety indicators (if present)
 
 Engagement metrics
 
-The notebook automatically detects column names using fuzzy matching to ensure flexibility across similar datasets.
+Detects column names using fuzzy matching to ensure flexibility across similar datasets.
 
   Key Analyses & Visualizations
 Exploratory Data Analysis
